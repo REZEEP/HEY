@@ -1,0 +1,11 @@
+{
+    "name": "instagram-followers",
+    "version": "1.0.0",
+    "description": "A Node.js script for fetching and storing Instagram followers data in a MySQL database",
+    "main": "index.js",
+    "dependencies": {
+      "mysql": "^2.18.1",
+      "requests": "^2.27.1"
+    }
+  }
+  
